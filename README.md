@@ -163,27 +163,27 @@ para testar o funcionamento do reconhecimento de texto (OCR).
 
 **Imagem 1**
 
-![Foto real 1](dados/imagens_reais/foto%1.jpg)
+![Foto real 1](dados/imagens_reais/foto_1.jpg)
 
 **Imagem 2**
 
-![Foto real 2](dados/imagens_reais/foto%2.jpg)
+![Foto real 2](dados/imagens_reais/foto_2.jpg)
 
 **Imagem 3**
 
-![Foto real 3](dados/imagens_reais/foto%3.jpg)
+![Foto real 3](dados/imagens_reais/foto_3.jpg)
 
 **Imagem 4**
 
-![Foto real 1](dados/imagens_reais/foto%4.jpg)
+![Foto real 1](dados/imagens_reais/foto_4.jpg)
 
 **Imagem 5**
 
-![Foto real 2](dados/imagens_reais/foto%5.jpg)
+![Foto real 2](dados/imagens_reais/foto_5.jpg)
 
 **Imagem 6**
 
-![Foto real 3](dados/imagens_reais/foto%6.jpg)
+![Foto real 3](dados/imagens_reais/foto_6.jpg)
 
 ## Limitações
 
