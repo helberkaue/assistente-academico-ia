@@ -158,7 +158,32 @@ No sistema completo, foram 34 respostas corretas, 4 erradas, 5 resumos gerados, 
 
 ### Exp. 5: fotos reais
 
-_Em andamento._
+Foram utilizadas imagens reais de materiais didáticos
+para testar o funcionamento do reconhecimento de texto (OCR).
+
+**Imagem 1**
+
+![Foto real 1](dados/imagens_reais/foto_1.jpg)
+
+**Imagem 2**
+
+![Foto real 2](dados/imagens_reais/foto_2.jpg)
+
+**Imagem 3**
+
+![Foto real 3](dados/imagens_reais/foto_3.jpg)
+
+**Imagem 4**
+
+![Foto real 1](dados/imagens_reais/foto_4.jpg)
+
+**Imagem 5**
+
+![Foto real 2](dados/imagens_reais/foto_5.jpg)
+
+**Imagem 6**
+
+![Foto real 3](dados/imagens_reais/foto_6.jpg)
 
 ## Limitações
 
